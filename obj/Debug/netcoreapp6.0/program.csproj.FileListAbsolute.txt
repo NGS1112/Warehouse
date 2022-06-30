@@ -1,0 +1,5 @@
+/home/runner/Warehouse/obj/Debug/netcoreapp6.0/program.csproj.AssemblyReference.cache
+/home/runner/Warehouse/obj/Debug/netcoreapp6.0/program.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Warehouse/obj/Debug/netcoreapp6.0/program.AssemblyInfoInputs.cache
+/home/runner/Warehouse/obj/Debug/netcoreapp6.0/program.AssemblyInfo.cs
+/home/runner/Warehouse/obj/Debug/netcoreapp6.0/program.csproj.CoreCompileInputs.cache
