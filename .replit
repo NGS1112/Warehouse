@@ -1,5 +1,5 @@
 run = "dotnet run 5 5 5"
-entrypoint = "Warehousing.Program"
+entrypoint = "README.md"
 
 hidden = ["bin", "obj"]
 

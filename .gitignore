@@ -1,0 +1,7 @@
+# Ignore compiled folders
+bin
+obj
+
+# Ignore replit files
+.replit
+*.nix
